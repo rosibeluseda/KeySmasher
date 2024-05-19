@@ -8,7 +8,7 @@ Small videogame developed in C++ using Blit3D[^1], a lightweight framework to wr
 
 ## Gameplay
 
-Press the the keys on the keyboard to match the ones on the screen before the time runs out, the difficulty will increase automatically.
+Press the keys on the keyboard to match the ones on the screen before the time runs out. The difficulty will increase automatically.
 
 [^1]: Blit3D framework, written by Darreb Reid: [Blit3D](https://gibgezr.wixsite.com/blit3d)
 [^2]: Open Graphics Library [OpenGL](https://www.opengl.org/)
